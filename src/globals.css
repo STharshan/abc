@@ -1,6 +1,6 @@
 :root {
-  --color-primary: hsl(207, 89%, 48%);
-  --color-secondary: hsl(54, 88%, 68%); /* 10% opacity */
+  --color-primary: hsl(207, 90%, 23%);
+  --color-secondary: hsl(207, 58%, 31%); /* 10% opacity */
 }
 
 .text-primary { color: var(--color-primary) !important; }
